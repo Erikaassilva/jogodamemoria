@@ -58,7 +58,7 @@ header{
     transform: rotateY(180deg);
 }
 .back{
-    background-image: url('capa.png');
+    background-image: url('capa.jpeg');
     backface-visibility: hidden;
 }
 .reveal-card {
